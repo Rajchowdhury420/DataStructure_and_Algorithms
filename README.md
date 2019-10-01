@@ -16,3 +16,5 @@ Related Topics as
 08. Graphs
 09. Searching and Sorting
 10. Hashing and Collision
+11. HashMaps
+12. Bit Maps
